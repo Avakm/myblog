@@ -1,0 +1,46 @@
+.home-editor {
+  min-height: 350px;
+}
+.home-toolbar a {
+  color: #333;
+}
+.editor-demo .ant-card-head {
+  padding: 0;
+  margin: 0 0px;
+  border: none;
+}
+.editor-demo .ant-card-body {
+  padding: 10px;
+  border: 1px solid #d9d9d9;
+}
+.editor-demo .rdw-editor-toolbar {
+  border: none;
+  border-bottom: 1px solid #e4e1e1;
+}
+.addNotice {
+  display: flex;
+  margin-top: 20px;
+  justify-content: flex-end;
+}
+.list-news .ant-list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.list-news .ant-list-item .list-title {
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.list-news .ant-list-item .list-time {
+  width: 20%;
+  text-align: center;
+}
+.noticeContent {
+  padding: 10px;
+  background-color: #fff;
+}
+.noticeContent .noticeTitle {
+  display: flex;
+  justify-content: center;
+}
